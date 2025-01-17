@@ -1,7 +1,7 @@
 import java.util.*;
 public class PracticeArrayList{
     public static void main(String[] args){
-        // add() remove() addAll() isEmpty() clear()
+        // add() remove() get() addAll() removeAll() isEmpty() clear() peek()
         ArrayList<Integer> list1 = new ArrayList<>();
         ArrayList<Integer> list2 = new ArrayList<>();
         list1.add(100);

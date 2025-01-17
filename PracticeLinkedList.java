@@ -1,8 +1,8 @@
 import java.util.*;
 public class PracticeLinkedList{
     public static void main(String[] args){
-         // add() remove() peek() isEmpty() clear()
-        LinkedList<Integer> LL = new LinkedList<>();
+         // add() remove() peek() isEmpty() clear() get()
+        List<Integer> LL = new LinkedList<>();
         LL.add(100);
         LL.add(200);
         LL.add(300);
